@@ -1,0 +1,21 @@
+.card13{
+    width: 100%;
+    height: 1270px;
+    display: flex;
+    flex-direction: row;
+}
+.firstrow{
+    outline: 1px solid gray;
+   width: 60%;
+   height: 1190px;
+   margin-top: 3%;
+   margin-left: 5%;
+   background-color:whitesmoke;
+}
+.faq{
+    padding: 20px;
+}
+.secrow{
+    margin-top: 3%;
+    margin-left: 2%;
+}

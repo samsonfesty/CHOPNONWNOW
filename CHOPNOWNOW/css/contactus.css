@@ -1,0 +1,55 @@
+.formtitle22{
+    margin-top: -2%;
+}
+.line2{
+    margin-top: 2%;
+    width: 100%;
+}
+.box13{
+    width: 700px;
+    height: 40px;
+    border: none;
+    margin-top: 2%;
+    padding: .5rem .75rem;
+}
+.firstrow7{
+    outline: 1px solid gray;
+    width: 100%;
+    height: 600px;
+    margin-top: 2%;
+    margin-left: 5%;
+    background-color:whitesmoke;
+}
+.app2{
+    margin-top: -53%;
+    width: 100%;
+    height: 400px;
+    background-image: url(../images/CH.png);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.delivery13{
+    width: 100%;
+    height: 400px;
+    margin-top: 3%;
+    background-color: rgb(255, 117, 25);
+    display: flex;
+    flex-direction: column;
+}
+.payment-option2{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(62, 62, 88);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 2%;
+}
